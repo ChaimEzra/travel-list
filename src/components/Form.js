@@ -38,6 +38,7 @@ export default function Form({ onAddItems }) {
         onChange={(e) => setDescription(e.target.value)}
       />
       <button>Add</button>
+      <button>Add</button>
     </form>
   );
 }
